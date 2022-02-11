@@ -8,6 +8,6 @@ public class Main {
 
         System.out.println("third step");
 
-        System.out.println("fourth class");
+        System.out.println("fourth  class");
     }
 }
