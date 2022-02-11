@@ -6,6 +6,6 @@ public class SecondClass {
         System.out.println("how are you");
         System.out.println("fine");
         
-        add new codes
+
     }
 }
