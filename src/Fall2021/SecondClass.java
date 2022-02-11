@@ -5,5 +5,7 @@ public class SecondClass {
         System.out.println("new page second class");
         System.out.println("how are you");
         System.out.println("fine");
+        
+        add new codes
     }
 }
